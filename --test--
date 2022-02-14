@@ -1,0 +1,15 @@
+// import { render, screen } from '@testing-library/react';
+// import App from './App';
+
+
+// test('renders learn react link', () => {
+//   render(<App />);
+//   const Element = screen.getByText(/Todo List/i);
+//   expect(Element).toBeInTheDocument();
+// });
+
+// test('renders learn react link', () => {
+//   render(<App />);
+//   const Element = screen.getByRole("textbox")
+//   expect(Element).toBeInTheDocument();
+// });

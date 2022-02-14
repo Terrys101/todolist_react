@@ -1,0 +1,10 @@
+h1{
+     display: flexbox;  
+justify-content: center;
+
+
+/* display: inline-flex; */
+
+    
+background: cornflowerblue;
+};
